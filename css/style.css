@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e6e9ed;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.contenedor {
+    margin: 8px;
+    background-color: #ffffff;
+}
+
+.contend-a {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 25px;
+}
+
+#logo-eCommerce {
+    font-size: 25px;
+    color: #7387a9;
+    padding-left: 30px;
+}
+
+#button-header {
+    padding-top: 10px;
+    max-width: 1500px;
+    max-height: 70px;
+    padding-right: 30px;
+}
+
+#line {
+    height: 90%;
+    width: 95%;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: #7387a9;
+}
+
+.product {
+    padding-left: 100px;
+    padding-top: 90px;
+}
+
+#product-a {
+    max-width: 90%;
+    padding: 0px;
+    border: 0px;
+}
+
+.product-information {
+    display: flex;
+}
+
+.productos-information-2 {
+    padding: 0px;
+    padding-top: 70px;
+    padding-left: 70px;
+    color: #7387a9;
+}
+
+#line-product {
+    width: 550px;
+    margin-top: 10px;
+    background-color: #7387a9;
+}
+
+.title-product-information {
+    margin-top: 40px;
+}
+
+.container-color {
+    margin-top: 20px;
+}
+
+.color-list {
+    display: flex;
+    padding: 20px;
+}
+
+.title-product-information {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+#title-colors {
+    font-size: 25px;
+}
+
+#color-text {
+    word-spacing: 200px;
+}
+
+.blue {
+    margin-left: 20px;
+}
+
+.red {
+    margin-left: 20px;
+}
+
+.orange {
+    margin-left: 20px;
+}
+
+#circulo-green {
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: green;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+#circulo-blue {
+    margin-left: 1px;
+    margin-top: 10px;
+    background-color: blue;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+#circulo-red {
+    margin-left: 1px;
+    margin-top: 10px;
+    background-color: red;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+#circulo-orange {
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: orange;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.size-product {
+    margin-top: 20px;
+}
+
+.list-size {
+    display: flex;
+    padding: 20px;
+}
+
+#small {
+    margin-left: 10px;
+    color: black;
+}
